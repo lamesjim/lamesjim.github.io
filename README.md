@@ -1,2 +1,2 @@
 # IBM-Challenge
-Simple mobile site for Crossfit.com
+Simple mobile site for crossfit.com
